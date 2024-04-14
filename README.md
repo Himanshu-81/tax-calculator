@@ -35,3 +35,11 @@ Go to the project directory
 ```bash
   Start the local server by any external web server or live server extension in the vs code.
 ```
+## Screenshots
+
+![App Screenshot](https://res.cloudinary.com/himanshu811/image/upload/v1713107782/tax-calculator/txfg6djy45rsngpeckx5.png)
+
+![App Screenshot](https://res.cloudinary.com/himanshu811/image/upload/v1713107782/tax-calculator/jfxec2uo9omrmmbmzjel.png)
+
+![App Screenshot](https://res.cloudinary.com/himanshu811/image/upload/v1713107781/tax-calculator/qgrfsb6nbyihowv4tnyx.png)
+
